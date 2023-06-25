@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "eBay Inventory Manager",
+  "name": "Simple eBay inventory management site",
   "icons": [
     {
       "src": "favicon.ico",
